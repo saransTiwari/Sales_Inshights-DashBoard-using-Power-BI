@@ -1,4 +1,4 @@
-Sales Insights Dashboard for Computer Hardware Business
+#Sales Insights Dashboard for Computer Hardware Business
 Project Overview
 This project is aimed at providing real-time sales insights for a computer hardware business that is facing challenges in a dynamically changing market. The Sales Director has decided to invest in a data analysis project to better understand the company's sales performance and identify key trends. The goal of this project is to build a Power BI dashboard that delivers insights into sales data, helping decision-makers to track performance, analyze trends, and make data-driven decisions.
 
